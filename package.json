@@ -22,7 +22,7 @@
   "readmeFilename": "Readme.md",
   "dependencies": {
     "opentmi-addon": "github:opentmi/opentmi-addon",
-    "superagent": "5.2.2",
+    "superagent": "10.2.2",
     "snyk": "^1.369.1"
   },
   "snyk": true
